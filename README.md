@@ -8,6 +8,16 @@ Yapay zeka metinlerinin kalıpları vardır: öngörülebilir ifadeler, bürokra
 
 Bu, açık kaynak [Stop Slop](https://github.com/hardikpandya/stop-slop) skill'inin (MIT) Türkçe uyarlamasıdır. Çeviri değil, yeniden tasarım: İngilizcedeki AI belirtilerinin çoğu (em dash, "-ly" zarfları, Wh- ile başlama) Türkçeye oturmaz. Türkçenin kendi kalıpları vardır — `-mektedir/-maktadır` ekleri, gereksiz `-dir` ek-fiili, "söz konusu / bağlamında / noktasında" dolguları, "Gelin yakından bakalım" açılışları.
 
+## Örnek
+
+**Öncesi:**
+> "Söz konusu proje bağlamında, ekipler arası uyum noktasında ciddi sorunlar yaşandığı görülmektedir."
+
+**Sonrası:**
+> "Bu projede ekipler birbiriyle anlaşamıyor."
+
+Daha fazla öncesi/sonrası dönüşüm için: [referanslar/ornekler.md](referanslar/ornekler.md).
+
 ## Yapı
 
 ```
@@ -24,13 +34,23 @@ yabay-zeka/
 
 ## Hızlı başlangıç
 
-**Claude Code:** Bu klasörü skill olarak ekleyin.
+**Claude Code:** Repoyu skill klasörünüze klonlayın:
+
+```bash
+git clone https://github.com/bycycomr/yabay-zeka.git ~/.claude/skills/yabay-zeka
+```
+
+Yalnızca tek bir projede kullanmak için `~/.claude/skills/` yerine o projedeki `.claude/skills/` altına klonlayın.
 
 **Claude Projects:** `SKILL.md` ve referans dosyalarını proje bilgisine yükleyin.
 
 **Özel talimatlar:** `SKILL.md`'deki çekirdek kuralları kopyalayın.
 
 **API çağrıları:** `SKILL.md`'yi sistem isteminize ekleyin. Referans dosyaları gerektiğinde yüklenir.
+
+Ekledikten sonra Claude'a şöyle diyin:
+
+> "Şu metni Yabay Zeka ile temizle: …"
 
 ## Hedef üslup
 
