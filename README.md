@@ -6,7 +6,7 @@ Türkçe metinlerden yapay zeka yazım kalıplarını temizleyen bir skill.
 
 Yapay zeka metinlerinin kalıpları vardır: öngörülebilir ifadeler, bürokratik ekler, dolgu kelimeler, gizlenen özne. Bu skill, Claude'a (veya herhangi bir LLM'e) bu kalıpları **Türkçede** yakalayıp temizlemeyi öğretir.
 
-Bu, açık kaynak [Stop Slop](https://github.com/hardikpandya/stop-slop) skill'inin (MIT) Türkçe uyarlamasıdır. Çeviri değil, yeniden tasarım: İngilizce tell'lerinin çoğu (em dash, "-ly" zarfları, Wh- ile başlama) Türkçeye oturmaz. Türkçenin kendi kalıpları vardır — `-mektedir/-maktadır` ekleri, gereksiz `-dir` kopulası, "söz konusu / bağlamında / noktasında" dolguları, "Gelin yakından bakalım" açılışları.
+Bu, açık kaynak [Stop Slop](https://github.com/hardikpandya/stop-slop) skill'inin (MIT) Türkçe uyarlamasıdır. Çeviri değil, yeniden tasarım: İngilizcedeki AI belirtilerinin çoğu (em dash, "-ly" zarfları, Wh- ile başlama) Türkçeye oturmaz. Türkçenin kendi kalıpları vardır — `-mektedir/-maktadır` ekleri, gereksiz `-dir` ek-fiili, "söz konusu / bağlamında / noktasında" dolguları, "Gelin yakından bakalım" açılışları.
 
 ## Yapı
 
@@ -32,9 +32,9 @@ yabay-zeka/
 
 **API çağrıları:** `SKILL.md`'yi sistem isteminize ekleyin. Referans dosyaları gerektiğinde yüklenir.
 
-## Hedef register
+## Hedef üslup
 
-**Resmi ama temiz.** "Siz" dili ve saygı tonu korunur. Atılan şey resmiyet değil, **şişkinliktir**: bürokratik ekler, kopula yığını, dolgu kalıpları, gizlenen özne.
+**Resmi ama temiz.** "Siz" dili ve saygı tonu korunur. Atılan şey resmiyet değil, **şişkinliktir**: bürokratik ekler, ek-fiil yığını, dolgu kalıpları, gizlenen özne.
 
 ## Neyi yakalar?
 

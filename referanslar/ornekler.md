@@ -1,6 +1,6 @@
 # Öncesi/Sonrası Örnekler
 
-Hedef register: resmi-temiz / siz dili. "Sonrası" metinler saygılı kalır ama bürokratik şişkinlik, dolgu ve gizli özne atılır.
+Hedef üslup: resmi-temiz / siz dili. "Sonrası" metinler saygılı kalır ama bürokratik şişkinlik, dolgu ve gizli özne atılır.
 
 ## Örnek 1: Boğaz Temizleme + Resmi Şişkinlik
 
@@ -10,7 +10,7 @@ Hedef register: resmi-temiz / siz dili. "Sonrası" metinler saygılı kalır ama
 **Sonrası:**
 > "Ürün geliştirmek zor. Teknolojiyi yönetebilirsiniz; insanları yönetmek ayrı bir iştir."
 
-**Değişiklikler:** "Şunu belirtmek gerekir ki" açılışı, "oldukça" zarfı, "düşünülmektedir" edilgen şişkinliği ve "...dır" kopula yığını silindi.
+**Değişiklikler:** "Şunu belirtmek gerekir ki" açılışı, "oldukça" zarfı, "düşünülmektedir" edilgen şişkinliği ve "...dır" ek-fiil yığını silindi.
 
 ---
 

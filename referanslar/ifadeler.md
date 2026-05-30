@@ -106,7 +106,7 @@ Metnin kendi yapısını duyuran kenar notlarını silin. Metin yürümeli, kend
 
 ## Resmi Şişkinlik Ekleri
 
-Türkçe AI metninin en güçlü tell'i: bürokratik `-mektedir/-maktadır` eki ve beyanı şişiren `-dir` kopulası. Resmi-temiz registerde "siz" kalır, bu ekler gider.
+Türkçe AI metninin en güçlü belirtisi: bürokratik `-mektedir/-maktadır` eki ve beyanı şişiren `-dir` ek-fiili. Resmi-temiz üslupta "siz" kalır, bu ekler gider.
 
 | Şişkin | Sade |
 |--------|------|

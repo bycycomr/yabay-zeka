@@ -36,7 +36,7 @@ Vurgu için cümle parçaları, yapay derinlik gibi okunur.
 | Kalıp | Sorun |
 |-------|-------|
 | "[İsim]. Hepsi bu. İşte mesele bu." | Performatif sadelik |
-| "X. Ve Y. Ve Z." | Staccato dram |
+| "X. Ve Y. Ve Z." | Kesik kesik dram |
 | "Bu bir şeyi açıyor. [Tek kelime]." | Yapay aydınlanma |
 
 **Bunun yerine:** Tam cümleler. İçeriğe güvenin, sunuma değil.
@@ -90,7 +90,7 @@ Sahnenin içine girmek yerine üstünde süzülmek.
 | "İnsanlar genellikle..." | Koltuk sosyoloğu |
 | "Toplum olarak..." | Aynı |
 
-**Bunun yerine:** Okuru sahneye koyun. Resmi-temiz registerde "siz" kullanın: "Bir sabah oturup şuna karar vermezsiniz..." cümlesi "Kimse bunu tasarlamadı"dan iyidir.
+**Bunun yerine:** Okuru sahneye koyun. Resmi-temiz üslupta "siz" kullanın: "Bir sabah oturup şuna karar vermezsiniz..." cümlesi "Kimse bunu tasarlamadı"dan iyidir.
 
 ## Edilgen ve Kişisiz Çatı
 
@@ -132,7 +132,7 @@ Hemen cevaplanan kurgu sorular ("Bu mümkün mü? Evet.") koltuk değneğidir. S
 | Her paragraf vurucu biter | Bitişleri çeşitlendirin |
 | Uzun çizgi (—) dramatik duraklama için | Virgül veya nokta. (Diyalogda uzun çizgi meşrudur; dramatik vurguda hayır.) |
 | "..." ile cümleyi askıda bırakma | Tamamlayın |
-| Staccato parçalama | Kısa vurucu cümleleri üst üste dizmeyin |
+| Kesik kesik parçalama | Kısa vurucu cümleleri üst üste dizmeyin |
 | "Her zaman değil. Tam olarak değil." | Güvence kılığında çekince |
 
 ## Kelime Kalıpları

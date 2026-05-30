@@ -12,11 +12,11 @@ metadata:
 
 Türkçe metinlerden öngörülebilir yapay zeka yazım kalıplarını temizleyin.
 
-Bu, İngilizce sürümün çevirisi değil; Türkçeye uyarlamasıdır. İngilizce AI tell'lerinin (em dash, "-ly" zarfları, Wh- ile başlama, "Here's the thing") çoğu Türkçeye oturmaz. Türkçenin kendi tell'leri vardır: bürokratik `-mektedir/-maktadır` eki, gereksiz `-dir` kopulası, "söz konusu / bağlamında / noktasında" dolguları, "Gelin yakından bakalım" blog açılışı, aşırı edilgen çatı.
+Bu, İngilizce sürümün çevirisi değil; Türkçeye uyarlamasıdır. İngilizce AI belirtilerinin (em dash, "-ly" zarfları, Wh- ile başlama, "Here's the thing") çoğu Türkçeye oturmaz. Türkçenin kendi belirtileri vardır: bürokratik `-mektedir/-maktadır` eki, gereksiz `-dir` ek-fiili, "söz konusu / bağlamında / noktasında" dolguları, "Gelin yakından bakalım" blog açılışı, aşırı edilgen çatı.
 
-## Hedef Register
+## Hedef Üslup
 
-**Resmi ama temiz.** "Siz" dili ve saygı tonu korunur. Atılan şey resmiyet değil, **şişkinliktir**: bürokratik ekler, kopula yığını, dolgu kalıpları, gizlenen özne. Metin saygılı kalır ama nefes alır.
+**Resmi ama temiz.** "Siz" dili ve saygı tonu korunur. Atılan şey resmiyet değil, **şişkinliktir**: bürokratik ekler, ek-fiil yığını, dolgu kalıpları, gizlenen özne. Metin saygılı kalır ama nefes alır.
 
 ## Çekirdek Kurallar
 
@@ -26,7 +26,7 @@ Bu, İngilizce sürümün çevirisi değil; Türkçeye uyarlamasıdır. İngiliz
 
 3. **Etken çatı kullan.** Özneyi öne al. Edilgen ve kişisiz yapılardan kaçın ("yapılmaktadır" değil "ekip yaptı"). Cansız nesnelere insan eylemi yükleme ("karar ortaya çıkar" değil "yönetici karar verdi").
 
-4. **Resmi şişkinlikten arın.** `-mektedir/-maktadır` yerine sade geniş/şimdiki zaman. Beyanı şişiren `-dir` kopulasını at ("önemlidir" → "önemli"). Siz dili kalır, ekler gider.
+4. **Resmi şişkinlikten arın.** `-mektedir/-maktadır` yerine sade geniş/şimdiki zaman. Beyanı şişiren `-dir` ek-fiilini at ("önemlidir" → "önemli"). Siz dili kalır, ekler gider.
 
 5. **Somut ol.** Belirsiz beyanlardan kaçın ("Nedenler yapısaldır"). "söz konusu, bağlamında, noktasında, açısından, itibariyle" dolgularını sil. Belirli şeyi adıyla söyle.
 
@@ -36,7 +36,7 @@ Bu, İngilizce sürümün çevirisi değil; Türkçeye uyarlamasıdır. İngiliz
 
 8. **Okura güven.** Olguyu doğrudan söyle. Yumuşatmayı, gerekçelendirmeyi, el bebek gül bebek anlatımı geç.
 
-9. **Alıntılık cümleleri kes.** Pull-quote gibi duruyorsa yeniden yaz.
+9. **Alıntılık cümleleri kes.** Vurgu alıntısı gibi duruyorsa yeniden yaz.
 
 ## Hızlı Kontroller
 
@@ -44,7 +44,7 @@ Metni teslim etmeden önce:
 
 - Gereksiz zarf var mı ("aslında", "gerçekten", "kesinlikle", "oldukça", "adeta", "resmen", "tam anlamıyla")? Sil.
 - `-mektedir/-maktadır` var mı ("yapılmaktadır", "görülmektedir")? Sade zamana çevir.
-- Beyanı şişiren `-dir` kopulası var mı ("önemlidir", "gereklidir", "mümkündür")? At.
+- Beyanı şişiren `-dir` ek-fiili var mı ("önemlidir", "gereklidir", "mümkündür")? At.
 - Edilgen/kişisiz çatı var mı ("bilinmektedir", "düşünülmektedir", "karara varıldı")? Özneyi bul, öne al.
 - Cansız özne insan eylemi yapıyor mu ("veriler bize söylüyor", "piyasa ödüllendirir")? Kişiyi adlandır.
 - Boğaz temizleme açılışı var mı ("Şunu belirtmek gerekir ki", "İşin aslı şu", "Şöyle ki:")? Kes, konuya gir.
