@@ -34,13 +34,31 @@ yabay-zeka/
 
 ## Hızlı başlangıç
 
-**Claude Code:** Repoyu skill klasörünüze klonlayın:
+### Yöntem 1 — `.skill` dosyasıyla (önerilen)
+
+[Releases](https://github.com/bycycomr/yabay-zeka/releases) sayfasından `yabay-zeka.skill` dosyasını indirin. `.skill` dosyaları sıradan bir zip arşividir; Claude Code'un skills klasörüne açmanız yeterli:
+
+**Mac / Linux:**
+```bash
+unzip yabay-zeka.skill -d ~/.claude/skills/yabay-zeka
+```
+
+**Windows (PowerShell):**
+```powershell
+Expand-Archive yabay-zeka.skill -DestinationPath "$env:USERPROFILE\.claude\skills\yabay-zeka"
+```
+
+Yalnızca tek bir projede kullanmak için `~/.claude/skills/` yerine o projedeki `.claude/skills/` altına açın.
+
+### Yöntem 2 — Git ile klonlayın
 
 ```bash
 git clone https://github.com/bycycomr/yabay-zeka.git ~/.claude/skills/yabay-zeka
 ```
 
-Yalnızca tek bir projede kullanmak için `~/.claude/skills/` yerine o projedeki `.claude/skills/` altına klonlayın.
+Bu yöntem güncellemeleri `git pull` ile almanızı sağlar.
+
+---
 
 **Claude Projects:** `SKILL.md` ve referans dosyalarını proje bilgisine yükleyin.
 
@@ -48,7 +66,7 @@ Yalnızca tek bir projede kullanmak için `~/.claude/skills/` yerine o projedeki
 
 **API çağrıları:** `SKILL.md`'yi sistem isteminize ekleyin. Referans dosyaları gerektiğinde yüklenir.
 
-Ekledikten sonra Claude'a şöyle diyin:
+Kurulumdan sonra Claude'a şöyle diyin:
 
 > "Şu metni Yabay Zeka ile temizle: …"
 
